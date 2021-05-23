@@ -1,3 +1,10 @@
+[![Starware](https://img.shields.io/badge/⭐-Starware-f5a91a?labelColor=black)](https://github.com/zepfietje/starware)
+
+## Starware
+
+This means you're free to use the project, as long as you star its GitHub repository.  
+Your appreciation makes us grow and glow up. ⭐
+
 # **Welcome to NextJS X TypeScript Boilerplate**
 
 ## Default Tech Used:
