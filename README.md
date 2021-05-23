@@ -1,6 +1,6 @@
 # **Welcome to NextJS X TypeScript Boilerplate**
 
-## Default Tech Used:
+## Default Tech Used
 
 - create-next-app
 - TypeScript
@@ -12,7 +12,7 @@
 - Firebase
 - Cloud Functions / Cloudfare Workers
 
-### Aim:
+### Aim
 
 - **TO GO SERVERLESS** 🚀
 - **HIGH PERFORMANCE** 💪
