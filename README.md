@@ -40,7 +40,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/CIPHERTron"><img src="https://avatars.githubusercontent.com/u/56754747?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pritish Samal</b></sub></a><br /><a href="#design-CIPHERTron" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/CIPHERTron"><img src="https://avatars.githubusercontent.com/u/56754747?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pritish Samal</b></sub></a><br /><a href="#design-CIPHERTron" title="Design">🎨</a> <a href="https://github.com/CIPHERTron/next-typescript-boilerplate/commits?author=CIPHERTron" title="Code">💻</a> <a href="https://github.com/CIPHERTron/next-typescript-boilerplate/pulls?q=is%3Apr+reviewed-by%3ACIPHERTron" title="Reviewed Pull Requests">👀</a> <a href="#maintenance-CIPHERTron" title="Maintenance">🚧</a> <a href="#projectManagement-CIPHERTron" title="Project Management">📆</a> <a href="#ideas-CIPHERTron" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
